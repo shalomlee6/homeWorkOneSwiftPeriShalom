@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StepMe/gameCell.swift"
+            timestampString = "516458544.297261"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "gameCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StepMe.gameCell.__deallocating_deinit"
+                  moduleName = "StepMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shalom/Desktop/ios%20projects/StepMe/StepMe/gameCell.swift"
+                  timestampString = "516458544.618288"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StepMe.gameCell.init (frame : __C.CGRect) -&gt; StepMe.gameCell"
+                  moduleName = "StepMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shalom/Desktop/ios%20projects/StepMe/StepMe/gameCell.swift"
+                  timestampString = "516458544.625337"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StepMe.gameCell.__allocating_init (frame : __C.CGRect) -&gt; StepMe.gameCell"
+                  moduleName = "StepMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shalom/Desktop/ios%20projects/StepMe/StepMe/gameCell.swift"
+                  timestampString = "516458544.632394"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StepMe.gameCell.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;StepMe.gameCell&gt;"
+                  moduleName = "StepMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shalom/Desktop/ios%20projects/StepMe/StepMe/gameCell.swift"
+                  timestampString = "516458544.641099"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "9">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StepMe.gameCell.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;StepMe.gameCell&gt;"
+                  moduleName = "StepMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shalom/Desktop/ios%20projects/StepMe/StepMe/gameCell.swift"
+                  timestampString = "516458544.650335"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StepMe/gameCell.swift"
+            timestampString = "516469053.794776"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "gameCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
